@@ -1,6 +1,6 @@
 // JavaScript Project 1
 
-
+//EMMY' S EDITS
 // Substitute console.log with c
 // Use controlled tell function instead?
 function c() {
